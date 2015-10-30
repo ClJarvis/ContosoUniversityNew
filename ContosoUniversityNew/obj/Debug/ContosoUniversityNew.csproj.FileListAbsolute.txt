@@ -45,3 +45,4 @@ C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\Pa
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\PagedList.Mvc.dll
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\PagedList.xml
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\PagedList.Mvc.xml
+C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\obj\Debug\ContosoUniversityNew.csprojResolveAssemblyReference.cache
