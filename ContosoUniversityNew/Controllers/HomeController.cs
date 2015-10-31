@@ -10,7 +10,7 @@ namespace ContosoUniversityNew.Controllers
 {
     public class HomeController : Controller
     {
-        public SchoolContext db = new SchoolContext();
+        private SchoolContext db = new SchoolContext();
         public ActionResult Index()
         {
             return View();
@@ -22,8 +22,8 @@ namespace ContosoUniversityNew.Controllers
                       group student by student.EnrollmentDate into dateGroup
                       select new EnrollmentDateGroup()
                       {
-                      EnrollmentDate = dateGroup.Key,
-                      StudentCount = dateGroup.Count()
+                        EnrollmentDate = dateGroup.Key,
+                            StudentCount = dateGroup.Count()
                        };
             return View(data.ToList());
         }
@@ -32,7 +32,7 @@ namespace ContosoUniversityNew.Controllers
         {
             db.Dispose();
             base.Dispose(disposing);
-        }
+        } 
 
         public ActionResult Contact()
         {

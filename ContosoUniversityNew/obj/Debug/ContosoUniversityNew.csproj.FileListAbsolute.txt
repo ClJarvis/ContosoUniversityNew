@@ -1,3 +1,4 @@
+C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\obj\Debug\ContosoUniversityNew.csprojResolveAssemblyReference.cache
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\roslyn\csc.exe
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -19,6 +20,8 @@ C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\En
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\Newtonsoft.Json.dll
+C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\PagedList.dll
+C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\PagedList.Mvc.dll
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\System.Web.Helpers.dll
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\System.Web.Mvc.dll
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\System.Web.Optimization.dll
@@ -30,6 +33,8 @@ C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\We
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\EntityFramework.xml
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\EntityFramework.SqlServer.xml
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\PagedList.xml
+C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\PagedList.Mvc.xml
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\System.Web.Helpers.xml
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\System.Web.Mvc.xml
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\System.Web.Optimization.xml
@@ -41,8 +46,3 @@ C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\An
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\Newtonsoft.Json.xml
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\obj\Debug\ContosoUniversityNew.dll
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\obj\Debug\ContosoUniversityNew.pdb
-C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\PagedList.dll
-C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\PagedList.Mvc.dll
-C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\PagedList.xml
-C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\PagedList.Mvc.xml
-C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\obj\Debug\ContosoUniversityNew.csprojResolveAssemblyReference.cache
