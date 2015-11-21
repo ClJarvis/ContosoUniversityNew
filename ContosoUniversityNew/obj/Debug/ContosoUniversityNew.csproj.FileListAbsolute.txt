@@ -1,4 +1,3 @@
-C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\obj\Debug\ContosoUniversityNew.csprojResolveAssemblyReference.cache
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\roslyn\csc.exe
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Users\chris\Documents\GitHub\ContosoUniversityNew\ContosoUniversityNew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
