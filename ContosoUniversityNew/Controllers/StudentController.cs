@@ -124,9 +124,8 @@ namespace ContosoUniversityNew.Controllers
         }
 
         // GET: Student/Edit/5
-        [HttpPost, ActionName("Edit")]
-        [ValidateAntiForgeryToken]
-        public ActionResult EditPost(int? id)
+        [HttpGet, ActionName("Edit")]
+        public ActionResult EditPost(int? id) ///alter to get an page
         {
             if (id == null)
             {
